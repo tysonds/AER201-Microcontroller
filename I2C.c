@@ -1,12 +1,3 @@
-/**
- * @file
- * @author Michael Ding
- * @author Tyler Gamvrelis
- *
- * Created on August 4, 2016, 3:22 PM
- *
- * @ingroup I2C
- */
 
 /********************************* Includes **********************************/
 #include "I2C.h"
