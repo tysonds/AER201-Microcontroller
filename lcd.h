@@ -1,14 +1,4 @@
-/**
- * @file
- * @author Michael Ding
- * @author Tyler Gamvrelis
- *
- * Created on August 12, 2016, 4:24 PM
- *
- * @defgroup CharacterLCD
- * @brief Driver for Hitachi HD44780-based character LCD
- * @{
- */
+
 
 #ifndef LCD_H
 #define LCD_H
