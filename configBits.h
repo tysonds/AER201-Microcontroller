@@ -1,11 +1,4 @@
-/**
- * @file
- * @author Tyler Gamvrelis
- *
- * Created on July 10, 2017, 10:54 AM
- *
- * @ingroup Config_18F4620
- */
+
 
 #ifndef CONFIG_BITS_H
 #define CONFIG_BITS_H
