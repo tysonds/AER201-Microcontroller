@@ -1,11 +1,3 @@
-/**
- * @file
- * @author Michael Ding
- * @author Tyler Gamvrelis
- *
- * Created on July 18, 2016, 12:11 PM
- * @ingroup CharacterLCD
- */
 
 /********************************* Includes **********************************/
 #include "lcd.h"
